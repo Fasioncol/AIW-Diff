@@ -5,6 +5,7 @@
 ```
 data/train/ct    data/train/cta
 data/val/ct      data/val/cta
+data/test/ct      data/test/cta
 ```
 
 ```
